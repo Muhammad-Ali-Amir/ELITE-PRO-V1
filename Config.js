@@ -35,11 +35,11 @@ global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
 // Sticker details
 global.packname = process.env.PACKNAME || 'Sticker By';
-global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2348109263390';
+global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +923152456743';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
 global.wm = process.env.WM || "Youtube @EliteProTech";
-global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g';
+global.link = process.env.LINK || 'https://whatsapp.com/';
 
 // Text bug
 global.xbugtex = {
